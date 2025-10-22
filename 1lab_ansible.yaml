@@ -1,0 +1,25 @@
+# Descripcion de mi persona
+name: Daniel Llacsa
+edad: 25
+# ESTIFLO TIPO BLOCK
+habilidades:
+  - docker
+  - linux
+  - ansible
+contacto:
+  - email: cursospit@gmail.com
+  - telefono: 987 654 321
+# ESTIFO FLOW
+contacto: [email: cursospit@gmail.com, telefono: 987 654 321]
+
+# Lista de proyectos
+proyecto:
+  nombre: Curso de ansible
+  descripcion: Aprendiendo ansible en el curso PIT
+  tecnologias: 
+    - ansible
+    - docker
+    - linux
+costos:
+  nombre: PIT
+  

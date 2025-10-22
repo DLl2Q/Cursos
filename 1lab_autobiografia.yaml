@@ -1,0 +1,20 @@
+# Autobiografia escrita por Daniel Llacsa
+yo:
+  nombre: Daniel Llacsa
+  edad: 25
+  universidad: UTP
+  ocupacion: no activo
+  contacto: [correo: daniel.llacsa@gmail.com, telefono: 991389361, ciudad: lima]
+  habilidades:
+    - linux
+    - aws
+    - docker
+  intereses personales:
+    - programacion
+    - ansible
+    - automatizacion
+  metas:
+    - corto_plazo: 
+      - certificado aws
+      - certificado azure
+    - largo_plazo: [cincoaño: una casa, diezaño: un auto]
